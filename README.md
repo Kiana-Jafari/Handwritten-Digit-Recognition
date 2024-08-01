@@ -3,7 +3,7 @@ MNIST, which stands for Modified National Institute of Standards and Technology,
 Various methods were applied to the network to enhance its performance. Here's a summary:
 -  Designed and implemented a comprehensive testing framework for evaluating deep neural networks, resulting in a robust validation process that improved model performance consistency by 25% and reduced error rates across multiple datasets
 - Built a Deep Neural Network (DNN) with 2 hidden layers
-- Applied Learning Rate Decay.
+- Applied Learning Rate Decay
 - Implemented advanced optimization techniques such as:
   Adam optimizer & Mini-Batch Gradient Descent
 - Reduced the training time by 60% after applying Mini-Batch Gradient Descent instead of the traditional Vanilla Gradient Descent

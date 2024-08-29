@@ -1,6 +1,6 @@
 ### Handwritten Digit Recognition
 
-*Please note that the explanations are provided in <a href='https://medium.com/@Kiana-Jafari/understanding-the-math-behind-deep-neural-networks'>this Article</a> on Medium*
+*Please note that you can find the complete explanations of the Mathematics provided in <a href='https://medium.com/@Kiana-Jafari/understanding-the-math-behind-deep-neural-networks-602b7b6a150a'>this Article</a> on Medium*
 
 In this notebook, we evaluated a Digit Recognizer using an Artificial Neural Network (ANN) from scratch. This notebook follows Educational and Replicating research purposes, as well as grasping into Mathematics lovers for those like me! <br>
 MNIST, which stands for Modified National Institute of Standards and Technology, is a large database of handwritten digits commonly used to train various image processing systems. It consists of a training set of 60,000 examples and a test set of 10,000 examples, and it is frequently used as a benchmark for testing new machine learning algorithms. In this notebook, we used a small subset of the dataset. <br>
